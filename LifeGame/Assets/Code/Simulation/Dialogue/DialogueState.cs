@@ -3,7 +3,7 @@
     /// <summary>
     /// Responsible for maintaining state of a Dialogue.
     /// </summary>
-    public class DialoguePlayer
+    public class DialogueState
     {
     }
 }

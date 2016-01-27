@@ -84,8 +84,11 @@
   <ItemGroup>
     <Compile Include="Assets\Code\Simulation\Dialogue\DialogueBranch.cs" />
     <Compile Include="Assets\Code\Simulation\Dialogue\DialogueChoice.cs" />
-    <Compile Include="Assets\Code\Simulation\Dialogue\DialoguePlayer.cs" />
+    <Compile Include="Assets\Code\Simulation\Dialogue\DialogueState.cs" />
     <Compile Include="Assets\Code\Simulation\Dialogue\DialogueRoot.cs" />
+    <Compile Include="Assets\Code\Simulation\Story\StoryBranch.cs" />
+    <Compile Include="Assets\Code\Simulation\Story\StoryEvent.cs" />
+    <Compile Include="Assets\Code\Simulation\Story\StoryRoot.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />

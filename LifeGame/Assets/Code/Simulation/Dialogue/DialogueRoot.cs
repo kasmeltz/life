@@ -1,4 +1,4 @@
-﻿namespace Assets.Code.Simulation.Dialogue
+﻿namespace KS.LifeGame.Simulation.Dialogue
 {
     public class DialogueRoot
     {
